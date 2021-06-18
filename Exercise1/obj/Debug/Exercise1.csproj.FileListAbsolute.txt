@@ -1,0 +1,6 @@
+C:\Users\Mylaptop\RiderProjects\Exam Paper\Exercise1\bin\Debug\Exam_Paper.exe
+C:\Users\Mylaptop\RiderProjects\Exam Paper\Exercise1\bin\Debug\Exam_Paper.pdb
+C:\Users\Mylaptop\RiderProjects\Exam Paper\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+C:\Users\Mylaptop\RiderProjects\Exam Paper\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Mylaptop\RiderProjects\Exam Paper\Exercise1\obj\Debug\Exam_Paper.exe
+C:\Users\Mylaptop\RiderProjects\Exam Paper\Exercise1\obj\Debug\Exam_Paper.pdb
